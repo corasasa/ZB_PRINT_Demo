@@ -11,12 +11,20 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="develop" />
+    <TextView
+        android:layout_width="match_parent"
+        android:text="develop2"
+        android:layout_height="wrap_content" />
 
     <Button
         android:id="@+id/print_btn"
+        android:layout_marginTop="100dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp"
         android:text="打印"
         android:textSize="20sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:text="develop2"
+        android:layout_height="wrap_content" />
 </LinearLayout>
